@@ -1,0 +1,65 @@
+Temporada	Jogador	Posição	Nacionalidade	Time
+1955-56	Bob Pettit*	Ala-pivô	 Estados Unidos	St. Louis Hawks
+1956-57 dagger	Bob Cousy*	Armador	 Estados Unidos	Boston Celtics
+1957-58	Bill Russell*	Pivô	 Estados Unidos	Boston Celtics (2)
+1958-59	Bob Pettit* (2)	Ala-pivô	 Estados Unidos	St. Louis Hawks (2)
+1959-60	Wilt Chamberlain*	Pivô	 Estados Unidos	Philadelphia Warriors
+1960-61 dagger	Bill Russell* (2)	Pivô	 Estados Unidos	Boston Celtics (3)
+1961-62 dagger	Bill Russell* (3)	Pivô	 Estados Unidos	Boston Celtics (4)
+1962-63 dagger	Bill Russell* (4)	Pivô	 Estados Unidos	Boston Celtics (5)
+1963-64	Oscar Robertson*	Armador	 Estados Unidos	Cincinnati Royals
+1964-65 dagger	Bill Russell* (5)	Pivô	 Estados Unidos	Boston Celtics (6)
+1965-66	Wilt Chamberlain* (2)	Pivô	 Estados Unidos	Philadelphia 76ers
+1966-67 dagger	Wilt Chamberlain* (3)	Pivô	 Estados Unidos	Philadelphia 76ers (2)
+1967-68	Wilt Chamberlain* (4)	Pivô	 Estados Unidos	Philadelphia 76ers (3)
+1968-69	Wes Unseld*	Pivô/Ala-pivô	 Estados Unidos	Baltimore Bullets
+1969-70 dagger	Willis Reed*	Pivô	 Estados Unidos	New York Knicks
+1970-71 dagger	Lew Alcindor*	Pivô	 Estados Unidos	Milwaukee Bucks
+1971-72	Kareem Abdul-Jabbar* (2)	Pivô	 Estados Unidos	Milwaukee Bucks (2)
+1972-73	Dave Cowens*	Pivô	 Estados Unidos	Boston Celtics (7)
+1973-74	Kareem Abdul-Jabbar* (3)	Pivô	 Estados Unidos	Milwaukee Bucks (3)
+1974-75	Bob McAdoo*	Ala-pivô	 Estados Unidos	Buffalo Braves
+1975-76	Kareem Abdul-Jabbar* (4)	Pivô	 Estados Unidos	Los Angeles Lakers
+1976-77	Kareem Abdul-Jabbar* (5)	Pivô	 Estados Unidos	Los Angeles Lakers (2)
+1977-78	Bill Walton*	Pivô	 Estados Unidos	Portland Trail Blazers
+1978-79	Moses Malone*	Pivô	 Estados Unidos	Houston Rockets
+1979-80 dagger	Kareem Abdul-Jabbar* (6)	Pivô	 Estados Unidos	Los Angeles Lakers (3)
+1980-81	Julius Erving*	Ala	 Estados Unidos	Philadelphia 76ers (4)
+1981-82	Moses Malone* (2)	Pivô	 Estados Unidos	Houston Rockets (2)
+1982-83 dagger	Moses Malone* (3)	Pivô	 Estados Unidos	Philadelphia 76ers (5)
+1983-84 dagger	Larry Bird*	Ala	 Estados Unidos	Boston Celtics (8)
+1984-85	Larry Bird* (2)	Ala	 Estados Unidos	Boston Celtics (9)
+1985-86 dagger	Larry Bird* (3)	Ala	 Estados Unidos	Boston Celtics (10)
+1986-87 dagger	Magic Johnson*	Armador	 Estados Unidos	Los Angeles Lakers (4)
+1987-88	Michael Jordan*	Ala-armador	 Estados Unidos	Chicago Bulls
+1988-89	Magic Johnson* (2)	Armador	 Estados Unidos	Los Angeles Lakers (5)
+1989-90	Magic Johnson* (3)	Armador	 Estados Unidos	Los Angeles Lakers (6)
+1990-91 dagger	Michael Jordan* (2)	Ala-armador	 Estados Unidos	Chicago Bulls (2)
+1991-92 dagger	Michael Jordan* (3)	Ala-armador	 Estados Unidos	Chicago Bulls (3)
+1992-93	Charles Barkley*	Ala-pivô	 Estados Unidos	Phoenix Suns
+1993-94 dagger	Hakeem Olajuwon*	Pivô	Nigéria Estados Unidos Nigéria / EUA	Houston Rockets (3)
+1994-95	David Robinson*	Pivô	 Estados Unidos	San Antonio Spurs
+1995-96 dagger	Michael Jordan* (4)	Ala-armador	 Estados Unidos	Chicago Bulls (4)
+1996-97	Karl Malone*	Ala-pivô	 Estados Unidos	Utah Jazz
+1997-98 dagger	Michael Jordan* (5)	Ala-armador	 Estados Unidos	Chicago Bulls (5)
+1998-99	Karl Malone* (2)	Ala-pivô	 Estados Unidos	Utah Jazz (2)
+1999-00 dagger	Shaquille O'Neal*	Pivô	 Estados Unidos	Los Angeles Lakers (7)
+2000-01	Allen Iverson*	Ala-armador	 Estados Unidos	Philadelphia 76ers (6)
+2001-02	Tim Duncan	Ala-pivô	Ilhas Virgens Americanas Ilhas Virgens Americanas	San Antonio Spurs (2)
+2002-03 dagger	Tim Duncan (2)	Ala-pivô	Ilhas Virgens Americanas Ilhas Virgens Americanas	San Antonio Spurs (3)
+2003-04	Kevin Garnett	Ala-pivô	 Estados Unidos	Minnesota Timberwolves
+2004-05	Steve Nash*	Armador	 Canadá	Phoenix Suns (2)
+2005-06	Steve Nash* (2)	Armador	 Canadá	Phoenix Suns (3)
+2006-07	Dirk Nowitzki	Ala-pivô	 Alemanha	Dallas Mavericks
+2007-08	Kobe Bryant	Ala-armador	 Estados Unidos	Los Angeles Lakers (8)
+2008-09	LeBron James^	Ala	 Estados Unidos	Cleveland Cavaliers
+2009-10	LeBron James^ (2)	Ala	 Estados Unidos	Cleveland Cavaliers (2)
+2010-11	Derrick Rose^	Armador	 Estados Unidos	Chicago Bulls (6)
+2011-12 dagger	LeBron James^ (3)	Ala	 Estados Unidos	Miami Heat
+2012-13 dagger	LeBron James^ (4)	Ala	 Estados Unidos	Miami Heat (2)
+2013-14	Kevin Durant^	Ala	 Estados Unidos	Oklahoma City Thunder
+2014-15 dagger	Stephen Curry^	Armador	 Estados Unidos	Golden State Warriors (2)
+2015-16	Stephen Curry^ (2)	Armador	 Estados Unidos	Golden State Warriors (3)
+2016-17	Russell Westbrook^	Armador	 Estados Unidos	Oklahoma City Thunder (2)
+2017-18	James Harden^	Ala-armador	 Estados Unidos	Houston Rockets (4)
+2018-19	Giannis Antetokounmpo^	Ala-pivô	 Grécia	Milwaukee Bucks (4)
